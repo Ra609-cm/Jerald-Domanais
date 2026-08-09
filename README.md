@@ -20,6 +20,6 @@ Technologies Used
 - VSCODE
 
 Live Website Link
--
+- https://ra609-cm.github.io/Jerald-Domanais/
 GitHub Repository Link
--
+- https://github.com/Ra609-cm/Jerald-Domanais
